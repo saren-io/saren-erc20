@@ -1,0 +1,1 @@
+Kovan testnet token address - 0x4297f63A64e961E1b1163618adCa4767C44A2aA4
