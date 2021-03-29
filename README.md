@@ -1,1 +1,2 @@
-Kovan testnet token address - 0x4297f63A64e961E1b1163618adCa4767C44A2aA4
+Kovan testnet token address - 0x26E8cc3Eef4DF3Bd68c28dc748C1Ca85F1930932
+Mainnet token address - 0xBD4a858139B155219E2c8D10135003fdEf720b6B
