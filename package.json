@@ -12,5 +12,8 @@
     "@openzeppelin/contracts": "^4.0.0",
     "openzeppelin-solidity": "^3.4.0",
     "truffle": "^5.2.6"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.7"
   }
 }
